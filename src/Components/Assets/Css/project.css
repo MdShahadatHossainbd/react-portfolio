@@ -1,0 +1,10 @@
+.projects-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation {
+  font-size: medium;
+  color: gray;
+  font-family: Ubuntu;
+}

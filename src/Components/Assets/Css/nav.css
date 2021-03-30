@@ -1,0 +1,14 @@
+.nav {
+  color: rosybrown;
+  background-color: gray;
+  transition: ease-in;
+}
+.navlink {
+  margin-left: 20px;
+  color: white;
+}
+#nav1 {
+  background-color: blanchedalmond; /*whichever you want*/
+  opacity: 0.75;
+  filter: (opacity=0.25);
+}

@@ -1,0 +1,70 @@
+.landingpage-wrap {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+}
+.landing-grid {
+  background-color: white;
+  text-align: center;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+}
+.ppicture {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 4em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.banner-text {
+  background-color: black;
+  opacity: 0.4;
+  width: 100%;
+  border-radius: 5px;
+}
+.banner-text h1 {
+  font-size: 50px;
+  font-weight: lighter;
+  color: rgb(233, 233, 233);
+  font-family: Ubuntu;
+  display: flex;
+  justify-content: center;
+}
+.banner-text p {
+  font-size: 18px;
+  padding: -4em;
+  font-style: normal;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: -1.5em;
+}
+.social-links {
+  padding-bottom: 2.5em;
+  padding-top: 2.5em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 50%;
+  margin: auto;
+}
+.social-links i {
+  color: white;
+  font-size: 3em;
+  padding: 8px;
+}
+.pp-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
